@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @Shisomo
 
-## ♠︎立志成为栈溢出工程师
+## 我要写一辈子代码！
 
 - 能力越大责任越大
+- ♠︎立志成为栈溢出工程师
 - 👀 I am interested in cocococococococococococococococococococococococococococococococococococococoding
 - 🍃 I like plant
 - Sitting here in silence on my own
