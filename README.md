@@ -3,6 +3,8 @@
 ## 我要写一辈子代码！
 
 - 👀 I am interested in cocococococococococococococococococococococococococococococococococococococoding
+- 口头禅：扣扣嗖嗖
+- 最喜欢拍照📷
 - 最喜欢的食物是汉堡包🍔
 - 最喜欢的饮料是Coke Zero和咖啡
 - 最喜欢的运动是网球🎾
