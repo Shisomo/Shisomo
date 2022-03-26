@@ -8,6 +8,7 @@ Sitting here in silence on my own
 - 👀 I am interested in cocococococococococococococococococococococococococococococococococococococoding
 - 写代码从来不加**分号**
 - 口头禅：**扣扣嗖嗖**
+- 最喜欢花钱
 - 最喜欢**拍照📷**
 - 最喜欢的食物是**汉堡包🍔**
 - 最喜欢的饮料是**Coke Zero**和**咖啡**
@@ -28,10 +29,19 @@ Sitting here in silence on my own
 - 最近想学校解封去麦当劳吃早餐
 - 最近在为实习投简历做准备
 - 最近买了很多模型打算晚上有空拼
-- 最近打算换硕士课题了
+- 最近买了悠悠球和田宫车
+- 最近的快递全是韵达，全在廊坊因为疫情滞留了
+- 最近
 
+## 目标
 
-## 一句话
+- [ ] 人生的第一桶金
+- [ ] 买个富士相机吧
+- [ ] 去攀登一座高峰
+- [ ] 学会炒菜
+- [ ] 找个好工作
+
+## 鸡汤
 
 - 能力越大责任越大
 - 大多数人都高估了他们一天能做的事情，但低估了他们一年能做的事情
