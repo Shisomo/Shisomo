@@ -35,6 +35,7 @@ Sitting here in silence on my own
 
 ## 目标
 
+- [ ] 长个脑子吧
 - [ ] 人生的第一桶金
 - [ ] 买个富士相机吧
 - [ ] 去攀登一座高峰
