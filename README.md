@@ -4,7 +4,7 @@ Sitting here in silence on my own
 
 ## 我要写一辈子代码！
 
-- [ ] ♠︎立志成为栈溢出工程师
+- [ ] ♠︎栈溢出
 - 👀 I am interested in cocococococococococococococococococococococococococococococococococococococoding
 - 写代码从来不加**分号**
 - 口头禅：**扣扣嗖嗖**
@@ -21,21 +21,22 @@ Sitting here in silence on my own
 - 喜欢文字，但也往往不善言辞
 
 
-## 最近
+## 最近（花钱）
 
 - 最近买了B&O的音响
-- 最近看完了假面骑士空我
+- 最近看完了假面骑士空我、agito、电王
 - 最近想去隆兄家蹭饭
 - 最近想学校解封去麦当劳吃早餐
 - 最近在为实习投简历做准备
 - 最近买了很多模型打算晚上有空拼
 - 最近买了悠悠球和田宫车
 - 最近的快递全是韵达，全在廊坊因为疫情滞留了
-- 最近
+- 最近组装了一台电脑
 
 ## 目标
 
 - [ ] 长个脑子吧
+- [ ] 多动动脑子吧
 - [ ] 人生的第一桶金
 - [ ] 买个富士相机吧
 - [ ] 去攀登一座高峰
