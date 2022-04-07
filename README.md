@@ -5,7 +5,7 @@ Sitting here in silence on my own
 ## 我要写一辈子代码！
 
 - [ ] ♠︎栈溢出
-- 👀 I am interested in cocococococococococococococococococococococococococococococococococococococoding
+- 👀 I am interested in cocoococoding
 - 写代码从来不加**分号**
 - 口头禅：**扣扣嗖嗖**
 - 最喜欢花钱
