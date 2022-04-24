@@ -46,4 +46,4 @@ Sitting here in silence on my own
 ## Friends
 
 - 我的大佬朋友(物联网大佬|C++大佬)
-[![jf](https://cos.shisomo.tech/jf.jpg)](https://github.com/jinfeng1025/)
+[![jf](http://cos.shisomo.tech/jf.jpg)](https://github.com/jinfeng1025/)
