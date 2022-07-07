@@ -19,11 +19,6 @@ Sitting here in silence on my own
 - 喜欢**白色**
 - 🍃 I like plant
 
-## 最近（花钱）
-
-- 最近看完了假面骑士空我、agito、龙骑、555、响鬼、剑、甲斗、电王、月骑、帝骑、W、
-- 最近买了3070ti
-
 ## 目标
 
 - [ ] 长个脑子吧
@@ -33,13 +28,9 @@ Sitting here in silence on my own
 - [ ] 去攀登一座高峰
 - [ ] 学会炒菜
 - [ ] 找个好工作
-
-## 鸡汤
-
-- 能力越大责任越大
-- 大多数人都高估了他们一天能做的事情，但低估了他们一年能做的事情
+- [ ] 希望做事情可以全身心的投入
 
 ## Friends
 
-- 我的大佬朋友(物联网大佬|C++大佬)
+- 我的大佬朋友(物联网网关大哥 擅长骂人、驱动开发)
 [![jf](http://cos.shisomo.tech/jf.jpg)](https://github.com/jinfeng1025/)
