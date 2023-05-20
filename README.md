@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @Shisomo
 
+# SB偷我相机不得好死
+
 Sitting here in silence on my own
 
 ## 我要写一辈子代码！
@@ -20,17 +22,5 @@ Sitting here in silence on my own
 
 - [ ] 长个脑子吧
 - [ ] tesla model Y
-- [ ] 栈溢出工程师称号
-- [ ] focus
+- [ ] 学分布式系统
 
-## 学习中
-
-- grpc
-- elatsticsearch
-- rabbitmq
-- mqtt
-- vue
-- kubernetes
-- etcd
-- kdd
-- 
