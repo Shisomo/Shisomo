@@ -7,13 +7,9 @@ Sitting here in silence on my own
 ## Coding！
 
 - 👀 I am interested in cocoococoding
-- like **📷**
-- like**🍔**
-- like **Coke Zero** **coffee**
 - like **🎾**
-- only `Golang`
+- like 徒步
 - like **new thing**
-- like 🍃 
 
 ## target
 
